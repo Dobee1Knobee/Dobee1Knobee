@@ -8,11 +8,22 @@
 ---
 
 ### 🛠 Tech Stack  
-**Backend:** Node.js, NestJS, Express, TypeScript  
-**Frontend:** React, Next.js, Tailwind CSS  
-**Databases:** MongoDB, PostgreSQL, MySQL  
-**DevOps & Tools:** Docker, Google Cloud, GitHub Actions  
-**Other:** Solidity (Web3 experiments), Python for data processing  
+
+**Backend Development:**  
+Node.js • NestJS • Express • Java • Spring Boot • TypeScript  
+
+**Frontend Development:**  
+React • Next.js • Tailwind CSS • Bootstrap  
+
+**Databases & Data Processing:**  
+MongoDB • PostgreSQL • MySQL • Redis • Python (data pipelines, scripts)  
+
+**Cloud & DevOps:**  
+Docker • Kubernetes • AWS (EC2, S3, RDS) • Google Cloud Platform (GCP) • GitHub Actions • CI/CD  
+
+**Blockchain & Emerging Tech:**  
+Solidity (Web3 smart contracts) • API integrations • AI-assisted tools
+
 
 ---
 
