@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <h1 align="center">👋 Hi, I'm Dobee1Knobee</h1>
-<h3 align="center">💻 Fullstack Developer | CTO of <a href="https://doclearn.ru" target="_blank">Doclearn</a></h3>
+<h3 align="center">💻 Fullstack Developer </h3>
 <p align="center">
 ⚡ Node.js • NestJS • React • TypeScript • MongoDB • Solidity • Java • Spring Boot
 </p>
